@@ -28,7 +28,7 @@ namespace Testbot
     public class Program
     {
         // Telegram 
-        private static string BotToken = "<TG_BOT_TOKE>";
+        private static string BotToken = "<TG_BOT_TOKEN>";
 
         // CosmosDb
         private const string EndpointUrl = "<AZURE COSMOSDB ENDPOINT>";
