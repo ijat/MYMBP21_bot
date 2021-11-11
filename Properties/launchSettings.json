@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "MYMacbookPro2021-Checker-Bot": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
